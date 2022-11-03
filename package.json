@@ -1,0 +1,19 @@
+{
+  "name": "@castletech/pwa-module-scratch",
+  "version": "0.1.0",
+  "description": "Extension for PWA Studio.",
+  "main": "./index.js",
+  "scripts": {
+    "clean": " "
+  },
+  "peerDependencies": {
+    "@magento/peregrine": "~11.0.0",
+    "@magento/pwa-buildpack": "~10.0.0",
+    "@magento/venia-ui": "~8.0.0"
+  },
+  "pwa-studio": {
+    "targets": {
+      "intercept": "./intercept"
+    }
+  }
+}
