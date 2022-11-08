@@ -1,6 +1,6 @@
 ## PWA Studio Product Type Extension
 
-![Preview](docs/preview.png)
+![Preview](https://raw.githubusercontent.com/castlebr/pwa-module-product-type/master/docs/preview.jpg 'Preview')
 
 Create new product types in your pwa-studio using extensibility targetables api.
 
