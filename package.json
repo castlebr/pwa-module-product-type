@@ -1,7 +1,7 @@
 {
-  "name": "@castletech/pwa-module-scratch",
+  "name": "@castletech/pwa-module-product-type",
   "version": "0.1.0",
-  "description": "Extension for PWA Studio.",
+  "description": "Product type Extension for PWA Studio.",
   "main": "./index.js",
   "scripts": {
     "clean": " "
@@ -13,7 +13,8 @@
   },
   "pwa-studio": {
     "targets": {
-      "intercept": "./intercept"
+      "intercept": "./intercept",
+      "declare": "./declare"
     }
   }
 }

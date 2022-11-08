@@ -1,0 +1,8 @@
+.root {
+}
+
+.empty {
+  background-color: rgb(var(--venia-global-color-gray-100));
+  padding: 1rem;
+  width: 100%;
+}
